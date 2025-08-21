@@ -1,0 +1,13 @@
+# Python
+*.pyc
+__pycache__/
+.venv/
+backend-fastapi/.venv/
+
+
+# Node / React
+node_modules/
+build/
+
+# OS files
+.DS_Store
